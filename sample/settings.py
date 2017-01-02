@@ -84,10 +84,10 @@ DATABASES = {
         'NAME': 'mydb80',
 
         #'USER': 'ba1d92a6bb4d52',
-        'USER': 'root',
-        'PASSWORD': 'root',
+        'USER': 'sonal',
+        'PASSWORD': 'sonal',
         #'PASSWORD': 'c0c39682',
-        'HOST': 'Localhost',
+        'HOST': '172.30.11.121',
        # 'HOST': 'in-cdbr-azure-central-b.cloudapp.net',
 
         'PORT': '3306', 
